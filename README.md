@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yi-jacob&theme=github_dark&&show_icons=true&hide=stars,contribs)](https://github.com/yi-jacob/github-readme-stats)
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yi-Jacob)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
