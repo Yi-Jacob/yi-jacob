@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - 🛠️ Tools - Bootstrap, Tailwind, NPM, Babel, Webpack, Git, Github, Slack, VS Code
 - 💡 I intend to be resourceful and am always looking to expand my skill set
 
+### About Me
+
+I'm Jacob, an aspiring software engineer, with a passion for building applications that make the world a better place. I am dependable, driven and committed to learning as much as possible. I am hard-working and willing to put in the time and effort to achieve my goals.
+
 ### Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/yi-jacob/)
