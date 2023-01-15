@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Skills
 
-- 📚 Stack - React, JavaScript, CSS3, HTML5, Node.js, Express.js, PostgreSQL, MongoDB
+- 📚 Stack - React, Angular, JavaScript, TypeScript, CSS3, HTML5, JQuery, Node.js, Express.js, PostgreSQL, MongoDB
 - 🛠️ Tools - Bootstrap, Tailwind, NPM, Babel, Webpack, Git, Github, Slack, VS Code
 - 💡 I intend to be resourceful and am always looking to expand my skill set
 
