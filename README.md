@@ -19,13 +19,21 @@ Here are some ideas to get you started:
 
 ### Skills
 
-- 📚 Stack - React, Angular, JavaScript, TypeScript, CSS3, HTML5, JQuery, Node.js, Express.js, PostgreSQL, MongoDB
+- 📚 Stack - React, Angular, JavaScript, TypeScript, SCSS, HTML, JQuery, Node.js, Express.js, PostgreSQL, MongoDB
 - 🛠️ Tools - Bootstrap, Tailwind, NPM, Babel, Webpack, Git, Github, Slack, VS Code
 - 💡 I intend to be resourceful and am always looking to expand my skill set
 
 ### About Me
 
-I'm Jacob, an aspiring software engineer, with a passion for building applications that make the world a better place. I am dependable, driven and committed to learning as much as possible. I am hard-working and willing to put in the time and effort to achieve my goals.
+Hi, I'm Jacob, a highly skilled and motivated full-stack web developer with a few of years of experience in the industry. With a passion for coding and a strong background in computer science, I have been able to create dynamic and interactive web applications that are both user-friendly and visually appealing.
+
+I have extensive knowledge in various programming languages such as HTML, CSS, JavaScript, TypeScript, and PHP. I also have experience in developing web applications using frameworks such as React, Angular, and Node.js. I am also proficient in database management systems such as MySQL, MongoDB, Python and PostgreSQL.
+
+I am a quick learner, a team player, and have excellent communication skills. I have worked on various web development projects, from simple websites to complex web applications, and have always delivered quality work on time.
+
+In my free time I enjoy reading tech blogs, attending tech meetups, contributing to open-source projects and learning to become a better developer. I am always looking for new challenges and opportunities to learn and grow as a web developer.
+
+If you're looking for a skilled and experienced full-stack web developer, I would be the perfect fit for your team. Contact me today to discuss your web development needs or learn more about me at my own website: https://www.jacobyi.info/
 
 ### Let's Connect
 
