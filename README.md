@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Skills
 
 - 📚 Stack
-- - Frontend: HTML/CSS, React, Angular, Vue, Tailwind, SCSS
+- - Frontend: JS/TS, React, Angular, Vue, Tailwind, SCSS
 - - Backend: SQL, MongoDB, Node.js, C#, ASP.NET
 - 🛠️ Tools - Tools: Git, AWS, Azure, Devops, Slack, Agile/Scrum, CMS, Adobe, Figma, AI, Blockchain
 - 💡 I intend to be resourceful and am always looking to expand my skill set
