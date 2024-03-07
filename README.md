@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📚 Stack
 - - Frontend: JS/TS, React, Angular, Vue, Tailwind, SCSS
 - - Backend: SQL, MongoDB, Node.js, C#, ASP.NET
-- 🛠️ Tools - Tools: Git, AWS, Azure, Devops, Slack, Agile/Scrum, CMS, Adobe, Figma, AI, Blockchain
+- 🛠️ Tools: Git, AWS, Azure, Devops, Slack, Agile/Scrum, CMS, Adobe, Figma, AI, Blockchain, Supabase
 - 💡 I intend to be resourceful and am always looking to expand my skill set
 
 ### About Me
